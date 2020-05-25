@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FileProcessing", "FileProcessing\FileProcessing.pyproj", "{2D5F7659-DE0A-4E65-9AB5-E562038888DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5F7659-DE0A-4E65-9AB5-E562038888DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5F7659-DE0A-4E65-9AB5-E562038888DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67711CAE-7ABC-4D09-B2D1-D93469F5625C}
+	EndGlobalSection
+EndGlobal
